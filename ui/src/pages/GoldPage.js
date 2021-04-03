@@ -1,7 +1,7 @@
 function GoldPage() {
   return (
     <div>
-      <h1>Gold Page</h1>
+      <h1>Golden Page</h1>
     </div>
   );
 }

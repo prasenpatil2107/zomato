@@ -8,9 +8,7 @@ import LocationOnIcon from "@material-ui/icons/LocationOn";
 import { useHistory, useLocation } from "react-router-dom";
 
 const useStyles = makeStyles({
-  root: {
-    width: 500,
-  },
+  root: {},
 });
 
 export default function BottomNav() {
